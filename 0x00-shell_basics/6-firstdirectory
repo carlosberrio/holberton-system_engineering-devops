@@ -1,2 +1,2 @@
-m#!/bin/bash
-mkdir /tmp/betty /tmp/my_first_directory
+#!/bin/bash
+[A[Bmkdir /tmp/my_first_directory
